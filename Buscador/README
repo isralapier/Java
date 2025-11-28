@@ -1,1 +1,7 @@
+Proyecto Buscador de archivos de la materia Taller de programacion III 
 
+CONSIGNA
+
+Armar una aplicación que permita buscar un archivo particular dentro del sistema de archivos del sistema operativo. 
+Opcionalmente, podria especificar la carpeta donde quiero realizar la busqueda. 
+La idea es que la busqueda se realice con multiples hilos y que el que vaya encontrado el archivo pedido lo reporte por pantalla
